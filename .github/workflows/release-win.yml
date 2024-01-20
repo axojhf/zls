@@ -1,4 +1,4 @@
-name: CI
+name: release-win
 
 on:
   workflow_dispatch:
